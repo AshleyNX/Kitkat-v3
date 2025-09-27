@@ -9,3 +9,6 @@
 !lunch
 !sleep
 !goodmorning
+
+((triggering !nap once will post nap triggering !nap again will check ->nap.json if true or false on nap) so if you did it once and napping, doing it again will trigger returning back from nap))
+!nap
